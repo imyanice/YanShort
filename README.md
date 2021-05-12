@@ -1,5 +1,5 @@
 # YanShort
-![![Run on Repl.it](https://repl.it/badge/github/YanJobs/YanShort)](https://repl.it/github/YanJobs/YanShort)
+[![Run on Repl.it](https://repl.it/badge/github/plibither8/2048.cpp)](https://repl.it/github/plibither8/2048.cpp)
 YanShort is a simple url shortener writes in JavaScript
 # Installation
 1. First go in replit.com and fork the repl.
