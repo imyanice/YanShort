@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js --experimental-modules"
+    "start": "node index.js --experimental-modules",
+    "clean": "prettier -w ."
   },
   "keywords": [],
   "type": "module",
@@ -12,5 +13,8 @@
   "license": "GPL-3.0",
   "dependencies": {
     "nanoexpress": "^3.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0"
   }
 }
